@@ -15,7 +15,7 @@ function anagram(arr) {
     }
     
 
-    return final;
+    return results;
 }
 
 let array = ["eat", "tea", "tan", "ate", "nat", "bat"];
